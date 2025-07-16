@@ -1,0 +1,1 @@
+ Se ejecuto click sobre el elemento: new UiSelector().text("mmHg").instance(0)

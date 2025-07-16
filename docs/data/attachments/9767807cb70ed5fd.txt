@@ -1,0 +1,1 @@
+ Se ejecuto click sobre el elemento: new UiSelector().resourceId("android:id/date_picker_header_year")
